@@ -1,0 +1,24 @@
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\DelVaksin.dll.config
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\DelVaksin.dll
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\DelVaksin.pdb
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\EntityFramework.dll
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\EntityFramework.SqlServer.dll
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\EntityFramework.xml
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\bin\EntityFramework.SqlServer.xml
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csprojAssemblyReference.cache
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csproj.CoreCompileInputs.cache
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csproj.CopyComplete
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\obj\Debug\DelVaksin.dll
+D:\Perkuliahan\Semester4\TEKNET\week 15\DelVaksin\DelVaksin\obj\Debug\DelVaksin.pdb
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\DelVaksin.dll.config
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\DelVaksin.dll
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\DelVaksin.pdb
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\EntityFramework.dll
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\EntityFramework.SqlServer.dll
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\EntityFramework.xml
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\bin\EntityFramework.SqlServer.xml
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csproj.AssemblyReference.cache
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csproj.CoreCompileInputs.cache
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\obj\Debug\DelVaksin.csproj.CopyComplete
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\obj\Debug\DelVaksin.dll
+C:\Users\sibue\Downloads\tracking-vaccine-master\tracking-vaccine-master\DelVaksin\DelVaksin\obj\Debug\DelVaksin.pdb
